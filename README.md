@@ -32,42 +32,42 @@ Pueden definirse seis niveles de encabezados, con los símbolos de numeral (#) a
 
 ![](img/md-headings.png)
 
-### Sintaxis de Markdown - Itálicas
+### 3.1. Sintaxis de Markdown - itálicas
 Se definen con un asterisco (*) antes y después del texto o con un guión bajo (_) antes y después del texto.
 
 ![](img/md-italics.png)
 
-### Sintaxis de Markdown - Negritas
+### 3.2. Sintaxis de Markdown - negritas
 Se definen con dos asteriscos (**) antes y después del texto o con dos guiones bajos (__) antes y después del texto.
 
 ![](img/md-bold.png)
 
-### Sintaxis de Markdown - Citas textuales
+### 3.3. Sintaxis de Markdown - citas textuales
 Se definen con un símbolo de "mayor que" (>) antes de cada línea.
 
 ![](img/md-blockquotes.png)
 
-### Sintaxis de Markdown - Enlaces a otros documentos
+### 3.4. Sintaxis de Markdown - enlaces a otros documentos
 Se definen con un paréntesis cuadrados[] seguidos de paréntesis redondos (). En los paréntesis cuadrados se coloca (opcionalmente) el texto del enlace y en los redondos la dirección del documento.
 
 ![](img/md-links.png)
 
-### Sintaxis de Markdown - Imágenes
+### 3.5. Sintaxis de Markdown - imágenes
 Se definen con un signo de admiración de cierre (!), paréntesis cuadrados[] y paréntesis redondos (). En los paréntesis cuadrados se coloca (opcionalmente) un texto para la imagen y en los redondos la dirección de la imagen, ya sea en el disco o en la red.
 
 ![](img/md-images.png)
 
-### Sintaxis de Markdown - Listas numeradas
+### 3.6. Sintaxis de Markdown - listas numeradas
 Se definen con números antes de cada elemento.
 
 ![](img/md-numlist.png)
 
-### Sintaxis de Markdown - Listas no numeradas
+### 3.7. Sintaxis de Markdown - listas no numeradas
 Se definen con guiones antes de cada elemento.
 
 ![](img/md-notnumlist.png)
 
-### Otros elementos de sintaxis
+### 3.8. Otros elementos de sintaxis
 Para conocer otros elementos de la sintaxis de Markdown, se recomienda revisar en detalle:
 
 - Guía de referencia de Markdown: [Markdown Guide](https://www.markdownguide.org/)
