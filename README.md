@@ -8,7 +8,7 @@
 ----------------------
 Las variaciones de Markdown, también llamadas _flavors_, son extensiones o modificaciones de la especificación original. Entre las más populares están:
 
-- [R Markdown](): para el lenguaje R.
+- [R Markdown](https://rmarkdown.rstudio.com/): para el lenguaje R.
 - [GitHub Flavored Markdown](https://help.github.com/en/github/writing-on-github): para el sitio GitHub.
 - [Python Markdown](): para el lenguaje Python.
 - [Pandoc's Markdown](): para el programa [Pandoc](https://pandoc.org/) de conversión entre formatos.
