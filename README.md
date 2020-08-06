@@ -62,7 +62,7 @@ Se definen con números antes de cada elemento.
 
 ![](img/md-numlist.png)
 
-## Sintaxis de Markdown - Listas no numeradas
+### Sintaxis de Markdown - Listas no numeradas
 Se definen con guiones antes de cada elemento.
 
 ![](img/md-notnumlist.png)
